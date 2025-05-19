@@ -1,6 +1,6 @@
 # Conversational AI Sales Agent 
 
-![Demo Screenshot](./sales ai agent complete.jpg)
+![Demo Screenshot](./sales_ai_agent_complete.jpg)
 
 This project is a fully functional Conversational AI Sales Agent built using GPT-4 and LangChain. It is designed to interact with customers, answer queries, recommend products, and follow up on leads. The agent integrates seamlessly with websites, CRMs, and messaging platforms.
 
